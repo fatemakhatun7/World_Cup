@@ -1,0 +1,10 @@
+.third-layer{
+    display: none;
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 700px;
+    margin: 0px 600px;
+    cursor: pointer;
+}

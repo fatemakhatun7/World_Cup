@@ -12,19 +12,16 @@ body{
 }
 .top-container{
     width: 500px;
-    height: 350px;
+    height: 500px;
 }
 .top-header{
     color: aqua;
-    font-size: 50px;
+    font-size: 40px;
 }
 .top-paragraph{
-    width: 550px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    width: 400px;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
 }
 .top-footer{
     background-color: red; 
@@ -50,5 +47,5 @@ body{
     animation: waving 2s infinite;
 }
 .top-container .top-pic{
-    width: 90%;
+    width: 100%;
 }
