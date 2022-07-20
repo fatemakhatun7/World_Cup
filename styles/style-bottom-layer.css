@@ -19,6 +19,7 @@ hr{
     gap: 80px;
     margin: 20px;
     padding-bottom: 30px;
+    cursor: pointer;
 }
 .social-media{
     display: flex;
