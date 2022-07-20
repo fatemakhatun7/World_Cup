@@ -1,0 +1,20 @@
+.bloogs{
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    justify-content: space-around;
+    grid-gap: 40px;
+}
+.bloog{
+    background-color: rgb(206, 228, 220);
+    border-radius: 10px;
+}
+.thumbnail{
+    display: inline-flex;
+    padding-left: 20px;
+}
+.thumbnail img{
+    width: 100%;
+}
+.bloog-header, .bloog-paragraph{
+    text-align: center;
+}
