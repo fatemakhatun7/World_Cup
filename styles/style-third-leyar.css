@@ -1,6 +1,7 @@
 .third-layer{
     display: none;
     background-color: red;
+    color: white;
     border-radius: 10px;
     text-align: center;
     font-size: 25px;
